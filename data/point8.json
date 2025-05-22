@@ -1,0 +1,20 @@
+{
+    "id": "point8",
+    "type": "improvement",
+    "title": "8. 詢問複雜感受",
+    "title_en": "8. Inquiring about complex feelings",
+    "originalSentence": "How do I ask whether people's love for their job is true love or not?",
+    "improvedSentences": [
+        "How can I ask if someone genuinely loves their job, or if they are truly passionate about what they do?",
+        "What's a tactful way to inquire about the depth of someone's satisfaction or passion for their work?",
+        "Instead of \"true love,\" what are some better terms to use when asking if someone has a deep, genuine connection to their job?"
+    ],
+    "reasonEn": "The phrase \"true love\" is strongly associated with romantic relationships and sounds overly dramatic or informal when applied to a job.<br>\n- <strong>Appropriate Register:</strong> Using terms like \"genuinely loves,\" \"truly passionate about,\" \"deep satisfaction,\" or \"strong connection to\" maintains a more professional and appropriate tone for discussing work.<br>\n- <strong>Nuance:</strong> People's feelings about their jobs are complex. They might like certain aspects, feel a sense of purpose, or find it fulfilling, which isn't quite the same as \"true love.\" The improved sentences allow for this nuance.<br>\n- <strong>\"Or not\":</strong> While grammatically fine, often the \"or not\" is implied when asking a \"yes/no\" type question with \"if\" or \"whether.\"",
+    "reasonZh": "\"true love\" (真愛) 這個片語與愛情關係緊密相關，用來形容工作時聽起來過於戲劇化或不夠正式。<br>\n- <strong>恰當的語域：</strong> 使用像 \"genuinely loves\" (真正地熱愛)、\"truly passionate about\" (真正充滿熱情)、\"deep satisfaction\" (深厚的滿足感) 或 \"strong connection to\" (強烈的連結) 這樣的詞語，可以在討論工作時保持更專業和恰當的語氣。<br>\n- <strong>細微差別：</strong> 人們對工作的感受是複雜的。他們可能喜歡某些方面，感受到使命感，或覺得有成就感，這與「真愛」不完全相同。修改後的句子考慮到了這種細微差別。<br>\n- <strong>\"Or not\" (與否)：</strong> 雖然文法上沒問題，但在用 \"if\" 或 \"whether\" 提出「是/否」類型的問題時，\"or not\" 通常是隱含的。",
+    "furtherExamples": [
+        "\"What do you find most fulfilling about your job?\" (您覺得工作中最有成就感的是什麼？)",
+        "\"Are you passionate about the work you do?\" (您對自己所做的工作充滿熱情嗎？)",
+        "\"How meaningful do you find your current role?\" (您覺得目前的角色有多大意義？)",
+        "\"What aspects of your job do you enjoy the most/least?\" (您最喜歡/最不喜歡工作的哪些方面？)"
+    ]
+}

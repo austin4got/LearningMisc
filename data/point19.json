@@ -1,0 +1,14 @@
+{
+    "id": "point19",
+    "type": "improvement",
+    "title": "19. 句子改進 4 (字面意義修正)",
+    "title_en": "19. Sentence Improvement 4 (Literal Meaning Correction)",
+    "originalSentence": "I want you to correct my sentence, like if I say a sentence, and I want you to just recognize by the meaning of the words. Not you try to get how I say.",
+    "improvedSentences": [
+        "I'd like you to correct my sentences. When I say something, please try to understand me based on the literal meaning of the words I use. Don't try to guess my meaning just from the way I say it if the words themselves don't make sense.",
+        "When I speak, please focus on the literal meaning of my words to understand me. If what I say isn't logically clear from the words themselves, please point that out, rather than just trying to infer my meaning from context or delivery."
+    ],
+    "reasonEn": "<strong>\"Recognize by the meaning\":</strong> \"Understand based on the meaning\" or \"interpret based on the meaning\" is more natural.<br>\n<strong>\"Not you try to get how I say\":</strong> This phrase is a bit unclear. The user likely means \"Don't just try to guess my intended meaning from my delivery or intonation if the words themselves are confusing.\" The suggested improvements aim to capture this nuance more clearly and grammatically.<br>\nThe overall request is about focusing on literal linguistic accuracy.",
+    "reasonZh": "<strong>\"Recognize by the meaning\"：</strong> 用 \"understand based on the meaning\" (根據意思來理解) 或 \"interpret based on the meaning\" (根據意思來詮釋) 更自然。<br>\n<strong>\"Not you try to get how I say\"：</strong> 這個片語不太清楚。你可能想表達的是「如果我用的詞語本身就令人困惑，不要僅僅根據我的說話方式或語調來猜測我想表達的意思。」建議的說法旨在更清晰和合乎文法地表達這個細微差別。<br>\n整體請求是希望對方專注於字面上的語言準確性。",
+    "furtherExamples": [""]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "translation3",
+    "type": "translation",
+    "title": "中譯英 3 (稱呼 Chad)",
+    "title_en": "CN-EN Translation 3 (Calling Chad)",
+    "originalSentence": "我想到一件事情,你可以记住我会叫你Chad吗? 因为我不想要叫你ChatGPT,我想要叫Chad,C-H-A-D。",
+    "improvedSentences": ["I just thought of something. Can you remember that I'll call you Chad? I don't want to call you ChatGPT; I want to call you Chad, C-H-A-D."],
+    "reasonEn": "此為中文表述的英文翻譯參考。 / This is an English translation reference for the Chinese expression.",
+    "reasonZh": "",
+    "furtherExamples": [""]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "point5",
+    "type": "improvement",
+    "title": "5. 表達想法或假設",
+    "title_en": "5. Expressing a thought or hypothesis",
+    "originalSentence": "Oh, I thought that if British people were, maybe they could be like them.",
+    "improvedSentences": [
+        "Oh, I was thinking, if British people were [e.g., more reserved], maybe they would behave similarly to [e.g., people from another specific culture you have in mind].",
+        "Oh, I had a thought: if British people possessed [e.g., a particular trait like stoicism], perhaps they would act in a way comparable to [e.g., another group known for that trait].",
+        "It occurred to me that if British people were, for instance, less inclined to complain, they might resemble [another group] in that respect."
+    ],
+    "reasonEn": "The original sentence is vague and incomplete, making it hard to understand the intended comparison.<br>\n- <strong>Incomplete Predicate:</strong> \"if British people were...\" needs a complement to describe *what* they were (e.g., \"were more formal,\" \"were less direct\").<br>\n- <strong>Unclear Pronoun:</strong> \"...like them\" is problematic because \"them\" has no clear antecedent (the group being referred to).<br>\n- <strong>Conditional Structure:</strong> For hypothetical situations in the present or future, a Type 2 conditional is often used: \"If + past subjunctive (e.g., 'were'), ...would + base verb.\" The original sentence hints at this but doesn't complete it properly.<br>\n- <strong>Clarity of Comparison:</strong> To make the hypothesis clear, you need to specify (1) the characteristic you're hypothesizing about British people and (2) the group they are being compared to, along with the basis of that comparison.",
+    "reasonZh": "原句含糊不清且不完整，讓人難以理解其意圖進行的比較。<br>\n- <strong>謂語不完整：</strong> \"if British people were...\" (如果英國人是...) 需要一個補語來描述他們*是*什麼 (例如：\"were more formal\" / 更正式，\"were less direct\" / 不那麼直接)。<br>\n- <strong>代名詞指代不明：</strong> \"...like them\" (...像他們) 有問題，因為 \"them\" 沒有明確的先行詞 (所指的群體不明)。<br>\n- <strong>條件句結構：</strong> 對於現在或未來假設性的情況，通常使用第二類條件句：\"If + 過去虛擬式 (例如 'were')，...would + 動詞原形\"。原句暗示了這一點，但沒有正確完成。<br>\n- <strong>比較清晰度：</strong> 要使假設清晰，您需要具體說明 (1) 您對英國人假設的特徵，以及 (2) 與他們進行比較的群體，以及比較的基礎。",
+    "furtherExamples": [
+        "\"I was wondering, if British people were generally more direct in their communication style, perhaps they would be perceived differently by cultures that value explicitness.\" (我在想，如果英國人的溝通風格普遍更直接，也許重視明確表達的文化對他們的看法會有所不同。)",
+        "\"I had a hypothesis that if British people experienced similar weather patterns to Scandinavians, maybe their traditional cuisine would share more similarities.\" (我有一個假設，如果英國人經歷與斯堪地那維亞人相似的天氣模式，也許他們的傳統美食會有更多相似之處。)"
+    ]
+}

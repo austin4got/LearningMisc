@@ -1,0 +1,17 @@
+{
+    "id": "point16",
+    "type": "improvement",
+    "title": "16. 句子改進 1 (被解僱)",
+    "title_en": "16. Sentence Improvement 1 (Fired from Microsoft)",
+    "originalSentence": "I see a hunk today that he made a video that say he was fired by Microsoft and that is make me total tears. You know how to say total tears?",
+    "improvedSentences": [
+        "Today, I saw a video by an attractive guy (or 'a hunk,' informally) who said he was fired from Microsoft, and it made me burst into tears. By the way, how do you describe crying a lot? Is 'total tears' the right expression?",
+        "I saw an attractive man in a video today saying he'd been fired by Microsoft. It really moved me to tears. Is there an idiom for crying heavily? Would 'total tears' work?"
+    ],
+    "reasonEn": "<strong>Verb Tense:</strong> \"I see\" should be \"I saw\" for a past event. \"that say\" should be \"that said\" or the participle \"saying.\"<br>\n<strong>Pronoun & Clause Structure:</strong> \"that he made a video\" is a bit clunky. \"who made/posted a video\" or \"in a video...who said\" flows better.<br>\n<strong>Causation:</strong> \"that is make me\" is grammatically incorrect. Use the past tense: \"that made me\" or \"it made me.\"<br>\n<strong>Vocabulary for Crying:</strong> \"Total tears\" isn't a standard English idiom for heavy crying. Common expressions include \"burst into tears,\" \"cried a lot,\" \"was moved to tears,\" or \"it brought tears to my eyes.\"<br>\n<strong>Question Form:</strong> \"You know how to say...?\" is very informal when asking for linguistic advice. \"How do you say/describe...?\" or \"Is... the right/correct expression?\" is more standard.<br>\n<strong>\"Hunk\":</strong> This is informal slang for a physically attractive and well-built man. It's fine for casual conversation, but \"attractive guy/man\" is more neutral.",
+    "reasonZh": "<strong>動詞時態：</strong> \"I see\" 描述過去事件應用過去式 \"I saw\" (我看到)。\"that say\" 應改為 \"that said\" (說了) 或分詞 \"saying\" (說著)。<br>\n<strong>代名詞與子句結構：</strong> \"that he made a video\" 有點不流暢，可以改成 \"who made/posted a video\" (一位製作/發布影片的人) 或 \"in a video...who said\" (在影片中某人說)。<br>\n<strong>因果表達：</strong> \"that is make me\" 文法錯誤。應使用過去式 \"that made me\" (那使我) 或 \"it made me\" (它使我)。<br>\n<strong>關於「哭泣」的詞彙：</strong> \"Total tears\" 不是形容哭得很傷心的標準英文說法。常用表達有 \"burst into tears\" (突然大哭)、\"cried a lot\" (哭了很多)、\"was moved to tears\" (感動到流淚) 或 \"it brought tears to my eyes\" (那讓我熱淚盈眶)。<br>\n<strong>問句句型：</strong> \"You know how to say...?\" 在詢問語言用法時顯得非常口語。通常用 \"How do you say/describe...?\" (這個要怎麼說/描述？) 或 \"Is... the right/correct expression?\" (...是正確的表達方式嗎？) 會更標準。<br>\n<strong>\"Hunk\" (猛男)：</strong> 這是形容身材健壯、有吸引力的男性的非正式俚語。日常聊天尚可，但 \"attractive guy/man\" (有魅力的傢伙/男人) 更為中性。",
+    "furtherExamples": [
+        "The end of the movie was so sad, I almost burst into tears. (電影結局太悲傷了，我幾乎要哭了出來。)",
+        "She told me the news, and I could see she was fighting back tears. (她告訴我消息時，我能看出她在強忍著淚水。)"
+    ]
+}

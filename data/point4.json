@@ -1,0 +1,25 @@
+{
+    "id": "point4",
+    "type": "improvement",
+    "title": "4. 詢問不同的說法",
+    "title_en": "4. Asking for alternative phrasing",
+    "originalSentence": "How do you say \"too tired\" in a British way? I remember there's another sentence to talk about being too tired.",
+    "improvedSentences": [
+        "How else can I say \"too tired\" in British English? I recall there's another expression for being very tired.",
+        "Is there a common British English phrase for being \"extremely tired\"? I think I remember another way to put it.",
+        "What are some British alternatives for saying someone is \"too tired\"? I'm sure I've heard other expressions."
+    ],
+    "reasonEn": "- <strong>\"Sentence\" vs. \"Expression/Phrase/Way to put it\":</strong> When asking for alternative ways to say something, \"expression\" or \"phrase\" is usually more accurate than \"sentence.\" You're looking for a specific lexical item or a short group of words, not necessarily a full grammatical sentence. \"Way to put it\" is also a good, natural alternative.<br>\n- <strong>\"To talk about being\":</strong> This can often be simplified. Instead of \"another sentence to talk about being too tired,\" you can say \"another expression for being very tired\" or \"another way to say someone is very tired.\"<br>\n- <strong>Specificity:</strong> \"In a British way\" is okay, but \"in British English\" is slightly more precise.",
+    "reasonZh": "- <strong>\"Sentence\" vs. \"Expression/Phrase/Way to put it\"：</strong> 當詢問某事的其他說法時，\"expression\" (表達方式) 或 \"phrase\" (片語) 通常比 \"sentence\" (句子) 更準確。您尋找的是特定的詞彙項目或簡短的詞組，而不一定是完整的文法句子。\"Way to put it\" (說法) 也是一個很好、很自然的替代詞。<br>\n- <strong>\"To talk about being\"：</strong> 這通常可以簡化。與其說 \"another sentence to talk about being too tired\"，不如說 \"another expression for being very tired\" (表示非常疲倦的另一種表達方式) 或 \"another way to say someone is very tired\" (說某人非常疲倦的另一種方式)。<br>\n- <strong>具體性：</strong> \"In a British way\" (用英式的方式) 可以，但 \"in British English\" (在英式英語中) 稍微更精確。",
+    "furtherExamples": [
+        "I'm knackered. (非常口語，我累壞了。) - Often implies physical exhaustion.",
+        "I'm shattered. (我筋疲力盡了。) - Similar to knackered, suggests being broken by tiredness.",
+        "I'm wiped out. (我精疲力竭了。) - General exhaustion.",
+        "I'm done in. (我累垮了。) - Informal.",
+        "I'm dead on my feet. (我累得站不住了。) - Emphasizes extreme tiredness.",
+        "I could sleep for a week! (我能睡上一星期！) - Hyperbole to express extreme tiredness.",
+        "Asking about other regionalisms (詢問其他地區用語):",
+        "\"What's the American English equivalent of 'queue'?\" (美式英語中與 'queue' 相對應的詞是什麼？) (Answer: line)",
+        "\"Is 'fortnight' commonly used in Canadian English, or is there another term for two weeks?\" ('Fortnight' 在加拿大英語中常用嗎，或者有其他表示兩週的詞語？)"
+    ]
+}

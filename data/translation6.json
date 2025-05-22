@@ -1,0 +1,11 @@
+{
+    "id": "translation6",
+    "type": "translation",
+    "title": "中譯英 6 (回饋規則請求)",
+    "title_en": "CN-EN Translation 6 (Feedback Rule Request)",
+    "originalSentence": "嗨,Chad,我有兩個問題要問你,我用中文講好了。 第一個是,我想要你記住一個規則, 當我開始用英語講句子的時候, 你只按照字面上的意思來判斷我的意思。 如果它沒有辦法構成一個合理的邏輯的話, 你會直接和我說你不太懂我在說什麼事情, 然後你可能會提出另外一個句子, 是用英文說,然後問我說我是不是想要講這件事情, 然後給我一點回饋, 讓我知道有些句子並不是那麼合理, 或者是不那麼符合日常狀態的說法。",
+    "improvedSentences": ["Okay, Chad, I have two questions for you, and I'll say them in Chinese. First, I want you to remember a rule: when I start speaking in English, please interpret my sentences based only on their literal meaning. If they don't form a logical sense, tell me directly that you don't quite understand what I'm saying. Then, you could perhaps propose another sentence in English and ask me if that's what I intended to say. This way, I can get feedback on which sentences aren't quite reasonable or don't sound natural in everyday conversation."],
+    "reasonEn": "此為中文表述的英文翻譯參考。 / This is an English translation reference for the Chinese expression.",
+    "reasonZh": "",
+    "furtherExamples": [""]
+}

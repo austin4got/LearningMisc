@@ -1,0 +1,19 @@
+{
+    "id": "point11",
+    "type": "improvement",
+    "title": "11. 表達沮喪並尋求指引",
+    "title_en": "11. Expressing frustration and seeking guidance",
+    "originalSentence": "How does someone become a data analyst? I have a Master's degree in Computer Science, but I have no idea how to be a data scientist. That's ridiculous because how can someone tell another person that they're good at analyzing data? That is bullshit, like bullshit, bullshit. I don't know how to say that, but...",
+    "improvedSentences": [
+        "I'm trying to understand the typical career path to becoming a data analyst or data scientist. Despite holding a Master's in Computer Science, I feel quite unsure about the practical steps involved and how to bridge any gaps.",
+        "It seems challenging to objectively demonstrate or quantify one's analytical abilities to potential employers. Could you offer some guidance on how individuals, particularly those with a CS Master's, can effectively showcase these skills and navigate the job market for data science roles?",
+        "I'm feeling frustrated about how to transition into a data science career. Even with a relevant Master's degree, the process of proving analytical competence feels opaque. What concrete steps or strategies would you recommend?"
+    ],
+    "reasonEn": "The original sentence effectively conveys strong frustration, but the use of explicit language (\"bullshit\") and repetition, while understandable, can be counterproductive when seeking helpful advice.<br>\n- <strong>Constructive Framing:</strong> Rephrasing the frustration into specific questions about \"career paths,\" \"practical steps,\" \"demonstrating abilities,\" or \"strategies\" is more likely to elicit a targeted and useful response.<br>\n- <strong>Tone Management:</strong> While it's okay to express that you're finding something \"challenging,\" \"frustrating,\" or \"opaque\" (difficult to understand), a more measured tone generally facilitates better communication, especially in a context where you're asking for guidance.<br>\n- <strong>Focus on Solutions:</strong> The improved sentences shift the focus from just venting frustration to actively seeking solutions and information.",
+    "reasonZh": "原句有效地傳達了強烈的沮喪感，但使用露骨的詞語 (\"bullshit\") 和重複，雖然可以理解，但在尋求有益建議時可能會適得其反。<br>\n- <strong>建設性框架：</strong> 將沮喪感改述為關於「職業道路」、「實際步驟」、「證明能力」或「策略」的具體問題，更有可能引出有針對性且有用的回應。<br>\n- <strong>語氣管理：</strong> 雖然可以表達您覺得某事「有挑戰性」、「令人沮喪」或「不透明」(難以理解)，但在請求指導的情境下，更平和的語氣通常有助於更好的溝通。<br>\n- <strong>專注於解決方案：</strong> 修改後的句子將焦點從僅僅發洩沮喪轉移到積極尋求解決方案和資訊。",
+    "furtherExamples": [
+        "\"I'm finding it a bit overwhelming to figure out X. Could you break it down for me?\" (我發現要弄清楚 X 有點讓人不知所措。您能為我分解一下嗎？)",
+        "\"The requirements for Y seem quite extensive. Where would be a good starting point for someone with my background?\" (Y 的要求似乎相當廣泛。對於有我這樣背景的人來說，一個好的起點在哪裡？)",
+        "\"I'm not sure I fully grasp Z. Could you explain it in simpler terms or provide an analogy?\" (我不確定我完全理解 Z。您能用更簡單的術語解釋或提供一個類比嗎？)"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "point7",
+    "type": "improvement",
+    "title": "7. 向 AI 提出請求",
+    "title_en": "7. Making requests to an AI",
+    "originalSentence": "If I want you to remember to sometimes try to correct my English sentences and make them more fluent or natural, how should I do that?",
+    "improvedSentences": [
+        "How can I instruct you to occasionally help correct my English so it sounds more fluent or natural?",
+        "Could you sometimes point out ways I can make my English sentences more fluent and natural? (This is a direct request)",
+        "What's the best way to ask you to provide corrections for my English, focusing on fluency and naturalness, but only sometimes?"
+    ],
+    "reasonEn": "The original sentence is a bit long-winded and indirect.<br>\n- <strong>\"Remember\":</strong> AI models don't \"remember\" in the human sense of retaining past interactions to inform future ones without explicit re-instruction in the current session (though context windows provide a form of short-term memory). It's more about giving clear instructions for the current or ongoing interaction.<br>\n- <strong>\"How should I do that?\":</strong> This can be rephrased more directly. Instead of asking *how* to make the request, you can often just *make* the request or ask *how to instruct* the AI.<br>\n- <strong>Conciseness:</strong> Phrases like \"try to correct\" can often be simplified to \"correct\" or \"help correct.\"",
+    "reasonZh": "原句有點冗長且不夠直接。<br>\n- <strong>\"Remember\" (記住)：</strong> AI 模型不像人類那樣「記住」過去的互動來為未來提供信息，除非在當前會話中明確地重新指示 (儘管上下文窗口提供了一種短期記憶形式)。更重要的是在當前或持續的互動中給出清晰的指示。<br>\n- <strong>\"How should I do that?\" (我該怎麼做？)：</strong> 這可以更直接地改述。與其問*如何*提出請求，通常可以直接*提出*請求，或詢問*如何指示* AI。<br>\n- <strong>簡潔性：</strong> 像 \"try to correct\" (嘗試糾正) 這樣的片語通常可以簡化為 \"correct\" (糾正) 或 \"help correct\" (幫助糾正)。",
+    "furtherExamples": [
+        "\"Please correct any grammatical errors in my sentences and suggest more natural phrasing.\" (請糾正我句子中的任何文法錯誤，並建議更自然的措辭。)",
+        "\"From now on, if I make a mistake, could you point it out and explain why it's incorrect?\" (從現在開始，如果我犯了錯誤，您能指出來並解釋為什麼不正確嗎？)",
+        "\"I'd like to practice my conversational English. Please offer corrections occasionally, but don't interrupt the flow too much.\" (我想練習我的英語會話。請偶爾提供修正，但不要過多打斷對話的流暢性。)"
+    ]
+}
+

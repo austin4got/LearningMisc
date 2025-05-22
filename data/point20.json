@@ -1,0 +1,18 @@
+{
+    "id": "point20",
+    "type": "improvement",
+    "title": "20. 句子改進 5 (甘氨酸疑問)",
+    "title_en": "20. Sentence Improvement 5 (Unclear Utterances - Glycine)",
+    "originalSentence": "So what is the licensing mechanism? Because I saw the bottle...say, it's skin...that's what makes you say that recommend people have licensing when they are not full...like empty.",
+    "improvedSentences": [
+        "I'm curious, why might glycine supplements be recommended for people who are feeling emotionally empty or unfulfilled?",
+        "I've heard glycine might be suggested for emotional well-being. Could you explain why it's sometimes recommended when someone feels 'empty' or 'not full' emotionally?"
+    ],
+    "reasonEn": "<strong>Clarity over Fragmentation:</strong> The original attempts were very hard to understand due to fragmented sentences and incorrect vocabulary (\"licensing,\" \"skin\" in this context).<br>\n<strong>Precise Vocabulary:</strong> Using \"glycine supplements,\" \"recommended,\" \"emotionally empty,\" and \"unfulfilled\" makes the question clear and specific.<br>\n<strong>Direct Question Formation:</strong> Structuring it as a direct \"Why...\" or \"Could you explain why...\" question is effective.<br>\n<strong>Acknowledging User's Terminology:</strong> Phrases like \"when someone feels 'empty' or 'not full' emotionally\" can acknowledge the user's original way of describing the feeling while placing it in a clearer context.",
+    "reasonZh": "<strong>從零碎到清晰：</strong> 最初的表達因為句子破碎和用詞不當 (如 \"licensing\"、以及在此情境下的 \"skin\") 而非常難以理解。<br>\n<strong>準確詞彙：</strong> 使用 \"glycine supplements\" (甘胺酸補充劑)、\"recommended\" (被推薦)、\"emotionally empty\" (情感空虛) 和 \"unfulfilled\" (不滿足) 使問題清晰具體。<br>\n<strong>直接問句：</strong> 構成直接的 \"Why...\" (為什麼...) 或 \"Could you explain why...\" (你能解釋為什麼...) 的問句很有效。<br>\n<strong>關照使用者用語：</strong> 像 \"when someone feels 'empty' or 'not full' emotionally\" (當某些人感覺情感上「空虛」或「不滿足」時) 這樣的片語，可以在更清晰的語境中認可使用者最初描述感受的方式。",
+    "furtherExamples": [
+        "Self-Correction Tip (自我修正提示):",
+        "English: When you're unsure of a word (like \"licensing\" for glycine), it's okay to describe what you mean or ask, \"I'm not sure of the word, but it's a supplement for...\" This can help the listener understand better than using a potentially confusing incorrect word.",
+        "中文：當你不確定某個詞 (例如用 \"licensing\" 代替 glycine) 時，可以描述你的意思，或者問「我不確定那個詞怎麼說，但它是一種用於...的補充劑」。這樣比使用一個可能造成混淆的錯誤詞語更能幫助聽者理解。"
+    ]
+}

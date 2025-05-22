@@ -1,0 +1,20 @@
+{
+    "id": "point2",
+    "type": "improvement",
+    "title": "2. 討論用語",
+    "title_en": "2. Phrasing for discussion",
+    "originalSentence": "You say \"big room to discussion.\" What does that mean?",
+    "improvedSentences": [
+        "You said there's \"a lot of room for discussion.\" What does that mean?",
+        "You mentioned \"ample room for discussion.\" Could you clarify that?",
+        "When you say there's \"significant room for discussion,\" what exactly are you referring to?"
+    ],
+    "reasonEn": "The phrase \"big room to discussion\" is not standard English.<br>\n- <strong>Idiom:</strong> The correct idiom is \"room for discussion,\" which means there are aspects of a topic that can be debated, explored further, or are open to interpretation. Adding adjectives like \"a lot of,\" \"ample,\" \"significant,\" or \"little\" modifies the extent of this openness.<br>\n- <strong>Preposition:</strong> The preposition should be \"for\" (\"room *for* discussion\"), not \"to.\" \"For\" indicates purpose or suitability (i.e., the topic is suitable *for* discussion). \"To\" often indicates direction or a recipient, which doesn't fit here.<br>\n- <strong>Literal vs. Figurative:</strong> \"Big room\" literally refers to a large physical space. While \"room\" in \"room for discussion\" is also a spatial metaphor, the common collocations are with words like \"ample\" or \"little,\" not typically \"big\" in this figurative sense.",
+    "reasonZh": "片語 \"big room to discussion\" 不是標準英語。<br>\n- <strong>慣用語：</strong> 正確的慣用語是 \"room for discussion\"，意思是某個主題的某些方面可以辯論、進一步探討，或者是開放解釋的。加上形容詞如 \"a lot of\" (很多)、\"ample\" (充裕的)、\"significant\" (顯著的) 或 \"little\" (很少) 可以修飾這種開放的程度。<br>\n- <strong>介係詞：</strong> 介係詞應該是 \"for\" (\"room *for* discussion\")，而不是 \"to\"。\"For\" 表示目的或適合性 (即該主題適合討論)。\"To\" 通常表示方向或接收者，在此不適用。<br>\n- <strong>字面與比喻義：</strong> \"Big room\" 字面上指一個大的實體空間。雖然 \"room for discussion\" 中的 \"room\" 也是一個空間隱喻，但在這個比喻義中，常見的搭配詞是像 \"ample\" 或 \"little\"，通常不是 \"big\"。",
+    "furtherExamples": [
+        "The new proposal leaves little room for maneuver. (新提案幾乎沒有轉圜的餘地。)",
+        "There's always room for improvement. (總有改進的空間。) - This is a very common idiom.",
+        "We need to leave some wiggle room in the schedule. (我們需要在日程安排中留出一些彈性空間。)",
+        "That's a moot point/question. (那是一個沒有實際意義、無需爭論的點/問題。) - Used when further discussion is pointless."
+    ]
+}

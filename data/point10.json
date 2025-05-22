@@ -1,0 +1,21 @@
+{
+    "id": "point10",
+    "type": "improvement",
+    "title": "10. 表達希望獲得回饋",
+    "title_en": "10. Expressing a desire for feedback",
+    "originalSentence": "Oh, I want you to talk about what's wrong with what I said. Which topic or something that makes you unhappy?",
+    "improvedSentences": [
+        "Could you give me some feedback on what I just said? Was there anything unclear, potentially problematic, or that could be phrased better?",
+        "I'd appreciate your input. Is there anything in my previous statement that was confusing or could be improved for clarity or appropriateness?",
+        "If I said something that wasn't quite right or could be misunderstood, I'd like to know so I can learn from it."
+    ],
+    "reasonEn": "- <strong>Attributing Emotions to AI:</strong> AI models like me don't experience emotions such as \"unhappiness.\" Phrasing requests in terms of how an AI processes information (clarity, accuracy, potential issues, adherence to guidelines) is more effective.<br>\n- <strong>Specificity of Request:</strong> \"What's wrong\" can be a bit blunt. Asking about \"unclear points,\" \"problematic aspects,\" \"areas for improvement,\" or \"better phrasing\" provides more constructive avenues for feedback.<br>\n- <strong>Focus on Learning:</strong> Framing the request as a desire to learn (\"so I can learn from it\") often elicits more helpful and detailed responses.",
+    "reasonZh": "- <strong>將情緒歸因於 AI：</strong> 像我這樣的 AI 模型不會經歷像「不高興」這樣的情緒。從 AI 如何處理資訊 (清晰度、準確性、潛在問題、遵守指南) 的角度來提出請求會更有效。<br>\n- <strong>請求的具體性：</strong> \"What's wrong\" (哪裡錯了) 可能有點生硬。詢問「不清楚的地方」、「可能有問題的方面」、「可以改進的領域」或「更好的措辭」為回饋提供了更具建設性的途徑。<br>\n- <strong>專注於學習：</strong> 將請求表達為學習的願望 (\"so I can learn from it\" / 這樣我才能從中學習) 通常會引出更有幫助和詳細的回應。",
+    "furtherExamples": [
+        "\"How did that sound to you?\" (這聽起來怎麼樣？) (More informal, can be used with people)",
+        "\"Could you review this for any errors or awkward phrasing?\" (您可以檢查一下是否有任何錯誤或不自然的措辭嗎？)",
+        "\"What are your thoughts on my explanation? Is it easy to understand?\" (您對我的解釋有什麼看法？容易理解嗎？)",
+        "\"I'm working on my [e.g., formal writing style]. Any suggestions on this piece?\" (我正在練習我的 [例如：正式寫作風格]。對這篇文章有什麼建議嗎？)"
+    ]
+}
+

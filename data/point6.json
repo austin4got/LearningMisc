@@ -1,0 +1,19 @@
+{
+    "id": "point6",
+    "type": "improvement",
+    "title": "6. 澄清意義",
+    "title_en": "6. Clarifying meaning",
+    "originalSentence": "So \"derogatory\" means to make me feel small and weak, like that.",
+    "improvedSentences": [
+        "So, does \"derogatory\" mean something that is intended to make a person feel small, disrespected, or belittled?",
+        "So, if a comment is \"derogatory,\" it means it expresses a critical or disrespectful attitude, which then might make someone feel weak or insignificant. Is that understanding correct?",
+        "Am I right in thinking that \"derogatory\" describes remarks that aim to diminish someone's value or reputation?"
+    ],
+    "reasonEn": "Your intuition about the *effect* of a derogatory remark is good, but the definition can be more precise.<br>\n- <strong>\"like that\":</strong> This phrase is very informal and vague, especially at the end of an explanation or definition. It doesn't add much clarity.<br>\n- <strong>Intent vs. Effect:</strong> \"Derogatory\" primarily describes the *nature* or *intent* of the language used – it's language that shows a lack of respect or a low opinion of someone or something. The feeling of being \"small and weak\" is a possible *effect* on the person targeted by such language.<br>\n- <strong>Phrasing for Confirmation:</strong> Turning your understanding into a question (e.g., \"Does 'derogatory' mean...?\", \"Is that understanding correct?\", \"Am I right in thinking...\") is a good way to seek confirmation and learn.<br>\n- <strong>Stronger Vocabulary:</strong> Using words like \"disrespected,\" \"belittled,\" \"insignificant,\" \"diminish someone's value\" helps to capture the meaning of \"derogatory\" more fully.",
+    "reasonZh": "您對於貶損性言論*效果*的直覺是好的，但定義可以更精確。<br>\n- <strong>\"like that\"：</strong> 這個片語非常口語化且含糊，尤其在解釋或定義的結尾。它沒有增加多少清晰度。<br>\n- <strong>意圖 vs. 效果：</strong> \"Derogatory\" 主要描述所使用語言的*性質*或*意圖* – 它是一種表示不尊重或對某人某物評價很低的語言。感到「渺小和軟弱」是被這種語言攻擊的人可能產生的*效果*。<br>\n- <strong>確認用語：</strong> 將您的理解轉化為問題 (例如：\"Does 'derogatory' mean...?\" / 「Derogatory」是指...嗎？，\"Is that understanding correct?\" / 這個理解正確嗎？，\"Am I right in thinking...\" / 我這樣想對嗎...) 是尋求確認和學習的好方法。<br>\n- <strong>更強的詞彙：</strong> 使用像 \"disrespected\" (不受尊重的)、\"belittled\" (被輕視的)、\"insignificant\" (不重要的)、\"diminish someone's value\" (貶低某人價值) 這樣的詞語有助於更全面地把握 \"derogatory\" 的含義。",
+    "furtherExamples": [
+        "\"He made some derogatory comments about her appearance.\" (他對她的外貌發表了一些貶損性的評論。)",
+        "\"The term can be seen as derogatory towards that ethnic group.\" (那個詞彙可被視為對該族裔帶有貶損意味。)",
+        "\"She sued the newspaper for publishing derogatory statements about her character.\" (她控告報社發表了關於她品格的誹謗性言論。)"
+    ]
+}

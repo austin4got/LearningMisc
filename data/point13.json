@@ -1,0 +1,20 @@
+{
+    "id": "point13",
+    "type": "improvement",
+    "title": "13. 誤用慣用語",
+    "title_en": "13. Misapplying idioms",
+    "originalSentence": "Yeah, that's happening in my eye socket, so my eye socket is coming and going.",
+    "improvedSentences": [
+        "Yes, the pain (or the sensation I'm experiencing) is in my eye socket, and it (the pain/sensation) comes and goes.",
+        "I'm experiencing a feeling in my eye socket that isn't constant; it appears and then disappears. So, the sensation comes and goes.",
+        "The discomfort in my eye socket is intermittent; it's not there all the time. It comes and goes."
+    ],
+    "reasonEn": "The idiom \"comes and goes\" refers to something (like a symptom, a feeling, a person, or even an idea) that appears or is present for a while, then disappears or is absent, often repeatedly.<br>\n- <strong>Subject of the Idiom:</strong> You wouldn't say a physical part of your body, like an \"eye socket,\" \"is coming and going.\" The eye socket is a fixed anatomical structure. It's the *sensation*, *pain*, *discomfort*, or *symptom* located *in* the eye socket that \"comes and goes.\"<br>\n- <strong>Clarity:</strong> The improved sentences clarify that \"it\" (the thing coming and going) refers to the pain or sensation, not the eye socket itself.",
+    "reasonZh": "慣用語 \"comes and goes\" 指的是某事物 (如症狀、感覺、人，甚至想法) 出現或存在一段時間，然後消失或不存在，通常是反覆如此。<br>\n- <strong>慣用語的主詞：</strong> 您不會說像「眼窩」這樣的身體部位「來來去去」(is coming and going)。眼窩是一個固定的解剖結構。是位於眼窩*裡*的*感覺*、*疼痛*、*不適*或*症狀*「來來去去」。<br>\n- <strong>清晰度：</strong> 修改後的句子闡明了「它」(來來去去的事物) 指的是疼痛或感覺，而不是眼窩本身。",
+    "furtherExamples": [
+        "\"The wifi signal in this cafe comes and goes.\" (這家咖啡館的無線網路訊號時好時壞。)",
+        "\"His enthusiasm for the project comes and goes.\" (他對這個專案的熱情時有時無。)",
+        "\"The bus to the village only comes and goes twice a day.\" (往返那個村莊的巴士一天只有兩班。)",
+        "\"The sharp pain in my knee comes and goes, especially when I walk uphill.\" (我膝蓋的劇痛時有時無，尤其是在我上坡的時候。)"
+    ]
+}

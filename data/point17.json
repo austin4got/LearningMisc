@@ -1,0 +1,17 @@
+{
+    "id": "point17",
+    "type": "improvement",
+    "title": "17. 句子改進 2 (解僱後樂觀)",
+    "title_en": "17. Sentence Improvement 2 (Optimism after Fired)",
+    "originalSentence": "even we get fired, we have to keep my, we have to keep ourselves to stay optimistic and maybe, and we have to convince other people that we, if, even that I'm got fired but I still can go to other city to find another other method to live, live like another shape.",
+    "improvedSentences": [
+        "Even if we get fired, we're often expected to stay optimistic. And perhaps we also feel we have to convince others that, even if I got fired, I could still move to another city and find a new way to live – to reinvent myself, in a way.",
+        "There's this societal pressure that even when people get fired, they should remain optimistic and prove to others they can bounce back, maybe by moving to a different city and starting a new 'chapter' or 'shape' of their life."
+    ],
+    "reasonEn": "<strong>Conditional:</strong> \"even we get fired\" should be \"even if we get fired.\"<br>\n<strong>Clarity & Conciseness:</strong> \"keep my\" is incomplete. \"keep ourselves to stay optimistic\" can be shortened to \"stay optimistic\" or \"remain optimistic.\"<br>\n<strong>Sentence Structure:</strong> The clause \"convince other people that we, if, even that I'm got fired but I still can...\" is very convoluted. It needs rephrasing for clarity, possibly by breaking it into smaller parts or using clearer conjunctions.<br>\n<strong>Verb Tense/Form:</strong> \"I'm got fired\" should be \"I got fired\" or \"I've been fired.\"<br>\n<strong>Redundancy:</strong> \"another other method\" is redundant. \"Another method,\" \"a different way,\" or \"a new way\" is correct.<br>\n<strong>Figurative Language:</strong> \"Live like another shape\" is an unusual metaphor. While the meaning can be guessed, more common expressions for changing one's life drastically are \"reinvent oneself,\" \"start a new chapter,\" or \"find a new form/path for one's life.\"",
+    "reasonZh": "<strong>條件句：</strong> \"even we get fired\" 應為 \"even if we get fired\" (即使我們被解僱)。<br>\n<strong>清晰與簡潔：</strong> \"keep my\" 不完整。\"keep ourselves to stay optimistic\" 可以簡化為 \"stay optimistic\" (保持樂觀) 或 \"remain optimistic\" (保持樂觀)。<br>\n<strong>句子結構：</strong> \"convince other people that we, if, even that I'm got fired but I still can...\" 這段非常繞口，需要重新組織以使其更清晰，可以考慮拆分或使用更明確的連接詞。<br>\n<strong>動詞時態/形式：</strong> \"I'm got fired\" 應為 \"I got fired\" (我被解僱了) 或 \"I've been fired\" (我已經被解僱了)。<br>\n<strong>贅字：</strong> \"another other method\" (另一個其他方法) 是多餘的，用 \"another method\" (另一個方法)、\"a different way\" (不同的方式) 或 \"a new way\" (新的方式) 即可。<br>\n<strong>比喻說法：</strong> \"Live like another shape\" (像另一種形狀一樣生活) 是個不尋常的比喻。雖然可以猜到意思，但形容人生重大改變的更常用說法有 \"reinvent oneself\" (重塑自我)、\"start a new chapter\" (開啟新的篇章) 或 \"find a new form/path for one's life\" (為人生找到新的形態/道路)。",
+    "furtherExamples": [
+        "After losing his job, he decided to reinvent himself as a freelance writer. (失業後，他決定轉型成為一名自由撰稿人。)",
+        "It's hard to stay optimistic when you're facing so many challenges. (當你面臨這麼多挑戰時，很難保持樂觀。)"
+    ]
+}

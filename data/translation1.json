@@ -1,0 +1,13 @@
+{
+  "id": "translation1",
+  "type": "translation",
+  "title": "中譯英 1 (在家工作)",
+  "title_en": "CN-EN Translation 1 (Busy at Home)",
+  "originalSentence": "但是有一件事情很忙,讓我覺得離不開上班的座位。 然後我明明就是在家裡面上班,為何可以上班上得這麼累呢? 但又因為我在家裡面上班,所以我又覺得我好像不能抱怨。",
+  "improvedSentences": [
+    "But there's this one task/project that's keeping me so busy, I feel like I can't leave my work seat. And even though I'm working from home, why do I get so tired from it? Yet, precisely because I work from home, I feel like I shouldn't complain."
+  ],
+  "reasonEn": "此為中文表述的英文翻譯參考。 / This is an English translation reference for the Chinese expression.",
+  "reasonZh": "",
+  "furtherExamples": [""]
+}

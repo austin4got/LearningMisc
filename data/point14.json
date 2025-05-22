@@ -1,0 +1,21 @@
+{
+    "id": "point14",
+    "type": "improvement",
+    "title": "14. 不完整或混亂的想法",
+    "title_en": "14. Incomplete or jumbled thoughts",
+    "originalSentence": "You're saying it's a little... that everybody thinks it's very expensive. Maybe I think they're what they really... Want to speak is \"cheap.\"",
+    "improvedSentences": [
+        "Are you suggesting that while some might perceive it as expensive, what many people are actually implying, or perhaps what the underlying reality is, is that it's \"cheap\"?",
+        "So, if I understand correctly, you're saying it's a bit [e.g., misleading/deceptive]? On the surface, everyone claims it's very expensive, but perhaps what they truly mean, or what they're trying to convey indirectly, is that it's actually \"cheap.\"",
+        "It sounds like you're pointing out a contradiction: there's a common perception of it being expensive, but you suspect the unspoken truth or intended message is that it's \"cheap.\" Is that right?"
+    ],
+    "reasonEn": "The original sentence is fragmented, with incomplete phrases and unclear connections, making it very difficult to follow the intended logic.<br>\n- <strong>Incomplete Phrases:</strong> \"it's a little...\" trails off without a completing adjective or noun phrase. \"...they're what they really...\" is also unfinished.<br>\n- <strong>Jumbled Logic:</strong> The relationship between \"expensive\" and \"cheap\" and who thinks what is not clearly articulated.<br>\n- <strong>Structuring Contrasting Ideas:</strong> When presenting contrasting ideas (e.g., perceived cost vs. actual cost, or stated opinion vs. real opinion), it's important to use clear structuring words and complete thoughts. Connectors like \"while,\" \"although,\" \"however,\" \"on the one hand...on the other hand,\" or phrases like \"contrary to popular belief\" can help.",
+    "reasonZh": "原句支離破碎，片語不完整，連結不清，使得理解其意圖的邏輯非常困難。<br>\n- <strong>片語不完整：</strong> \"it's a little...\" (它有點...) 後面沒有接續形容詞或名詞片語而中斷了。\" ...they're what they really...\" (...他們是他們真正...) 也沒有完成。<br>\n- <strong>邏輯混亂：</strong> 「昂貴」和「便宜」之間的關係，以及誰認為什麼，都沒有清晰地闡述。<br>\n- <strong>組織對比觀點：</strong> 在呈現對比觀點時 (例如，感知成本與實際成本，或陳述的觀點與真實觀點)，使用清晰的結構詞並完成整個想法非常重要。像 \"while\" (然而)、\"although\" (雖然)、\"however\" (但是)、\"on the one hand...on the other hand\" (一方面...另一方面...) 這樣的連接詞，或像 \"contrary to popular belief\" (與普遍看法相反) 這樣的片語都會有所幫助。",
+    "furtherExamples": [
+        "Tips for Clearer Expression of Complex Thoughts (清晰表達複雜想法的技巧):",
+        "One Idea at a Time: Try to formulate and complete one part of your thought before moving to the next.",
+        "Use Connectors: Employ transition words and phrases to show the relationship between ideas (e.g., contrast, cause and effect, addition).",
+        "Simplify: If a sentence becomes too convoluted, break it down into shorter, simpler sentences.",
+        "Pause and Think: It's okay to pause briefly in conversation to gather your thoughts before speaking."
+    ]
+}

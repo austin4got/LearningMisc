@@ -1,0 +1,22 @@
+{
+    "id": "point12",
+    "type": "improvement",
+    "title": "12. 不正確地描述感覺",
+    "title_en": "12. Describing a sensation incorrectly",
+    "originalSentence": "So crazy, but \"eye socket.\" So I can say, \"I feel so about in my eye.\"",
+    "improvedSentences": [
+        "Okay, I understand the term \"eye socket\" now. So, if I feel a sensation there, for example, pain, could I say, \"I feel sore in my eye socket\" or \"My eye socket is sore\"?",
+        "So, if I wanted to describe a feeling in that area, how would I phrase it? For instance, if it hurts, would \"My eye socket aches\" be correct?",
+        "Regarding the \"eye socket,\" if I experience discomfort there, what are some common ways to describe that feeling in English?"
+    ],
+    "reasonEn": "The phrase \"I feel so about in my eye\" is grammatically incorrect and doesn't convey a clear meaning.<br>\n- <strong>\"So about\":</strong> This combination of words is not a standard English construction for describing a feeling or sensation.<br>\n- <strong>Need for an Adjective or Verb:</strong> To describe a feeling, you typically use an adjective (e.g., \"I feel *sore*,\" \"My eye is *painful*\") or a verb that describes the sensation (e.g., \"My eye *aches*,\" \"My eye *stings*\").<br>\n- <strong>Location:</strong> Specify the location clearly: \"in my eye socket,\" or make the eye socket the subject: \"My eye socket feels...\"",
+    "reasonZh": "片語 \"I feel so about in my eye\" 在文法上是錯誤的，並且沒有傳達清晰的意義。<br>\n- <strong>\"So about\"：</strong> 這個詞語組合不是描述感覺或知覺的標準英語結構。<br>\n- <strong>需要形容詞或動詞：</strong> 要描述一種感覺，通常使用形容詞 (例如：\"I feel *sore*\" / 我感覺痠痛，\"My eye is *painful*\" / 我的眼睛很痛) 或描述該感覺的動詞 (例如：\"My eye *aches*\" / 我的眼睛痛，\"My eye *stings*\" / 我的眼睛刺痛)。<br>\n- <strong>位置：</strong> 清晰地指明位置：\"in my eye socket\" (在我的眼窩裡)，或者讓眼窩成為主語：\"My eye socket feels...\" (我的眼窩感覺...)。",
+    "furtherExamples": [
+        "Pain: sore, painful, aches, throbs (搏動性疼痛), stings (刺痛), burns (灼痛), sharp pain, dull ache (隱痛), tender (一觸即痛)",
+        "Other sensations: itchy (癢), numb (麻木), tingly (刺癢/麻刺感), pressure, tight (緊繃)",
+        "Examples:",
+        "\"I have a throbbing pain in my left temple.\" (我的左太陽穴搏動性疼痛。)",
+        "\"My fingers feel numb from the cold.\" (我的手指凍僵了。)",
+        "\"There's a dull ache in my lower back.\" (我的下背部隱隱作痛。)"
+    ]
+}

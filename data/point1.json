@@ -1,0 +1,20 @@
+{
+    "id": "point1",
+    "type": "improvement",
+    "title": "1. 表達能力或習慣",
+    "title_en": "1. Expressing ability or habit",
+    "originalSentence": "I don't know if I talk English to me.",
+    "improvedSentences": [
+        "I don't know if I can speak English well with you.",
+        "I'm not sure if I'm speaking English correctly with you.",
+        "I'm not sure if my English is good enough to talk with you.",
+        "I'm wondering about my English proficiency for this conversation."
+    ],
+    "reasonEn": "The original sentence \"I don't know if I talk English to me\" contains a few issues.<br>\n- <strong>\"Talk English\" vs. \"Speak English\":</strong> While \"talk English\" can be used in specific contexts (e.g., \"Let's talk English now to practice\"), \"speak English\" is generally used when referring to the ability or skill of using the English language. So, \"I speak English\" is standard for stating ability.<br>\n- <strong>\"to me\":</strong> This part is confusing. It seems like a direct translation from a language where a reflexive pronoun might be used differently. In English, if you're speaking *to* someone, you'd say \"speak English *to you*\" or \"speak English *with you*\". If you're talking about your own internal monologue, that's different, but in a conversation, \"to me\" in this structure is incorrect.<br>\n- <strong>Clarity of Intent:</strong> The sentence likely intends to express uncertainty about one's English speaking ability in the current conversation. The improved sentences offer clearer and more natural ways to convey this. \"Can speak English well\" focuses on the quality of communication. \"Speaking English correctly\" emphasizes grammatical accuracy. \"My English is good enough\" addresses the adequacy of language skills for the interaction. \"Wondering about my English proficiency\" is a slightly more formal way to express this doubt.",
+    "reasonZh": "原句 \"I don't know if I talk English to me\" 有幾個問題。<br>\n- <strong>\"Talk English\" vs. \"Speak English\"：</strong> 雖然 \"talk English\" 可以在特定情境下使用 (例如：\"Let's talk English now to practice\" - 我們現在用英語交談來練習)，但當指稱使用英語的能力或技巧時，通常用 \"speak English\"。所以，\"I speak English\" (我會說英語) 是陳述能力的標準說法。<br>\n- <strong>\"to me\"：</strong> 這部分令人困惑。它看起來像是從另一種語言直接翻譯過來的，該語言中反身代名詞的用法可能不同。在英語中，如果你是*對*某人說話，你會說 \"speak English *to you*\" (對你說英語) 或 \"speak English *with you*\" (和你用英語交談)。如果是指自言自語，那另當別論，但在對話中，\"to me\" 用在這裡是不正確的。<br>\n- <strong>意圖清晰度：</strong> 這句話可能想表達在當前對話中對自己英語口說能力的不確定性。修改後的句子提供了更清晰、更自然的方式來傳達這一點。\"Can speak English well\" 強調溝通的品質。\"Speaking English correctly\" 強調文法的正確性。\"My English is good enough\" 則針對互動中語言技能的充分性。\"Wondering about my English proficiency\" 是一種稍微正式一點表達這種疑慮的方式。",
+    "furtherExamples": [
+        "I'm still learning, so please let me know if I make any mistakes. (我還在學習，所以如果我犯了任何錯誤，請告訴我。)",
+        "Is my pronunciation clear enough? (我的發音夠清楚嗎？)",
+        "I sometimes struggle to find the right words in English. (我有時很難找到合適的英語詞彙。)"
+    ]
+}

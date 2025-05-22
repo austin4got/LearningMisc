@@ -1,0 +1,20 @@
+{
+    "id": "point3",
+    "type": "improvement",
+    "title": "3. 詢問如何稱呼對方",
+    "title_en": "3. Asking how to address someone",
+    "originalSentence": "Hey, I wonder how I should call you?",
+    "improvedSentences": [
+        "Hey, what should I call you? (Most common and natural)",
+        "Hey, how should I address you? (More formal)",
+        "Hey, do you have a name I can call you by? (Slightly more indirect)",
+        "Is there a particular name you prefer I use? (Polite and considerate)"
+    ],
+    "reasonEn": "While \"I wonder how I should call you?\" is grammatically understandable, it's a bit less direct and can sound slightly more hesitant than necessary for such a common question.<br>\n- <strong>Directness:</strong> \"What should I call you?\" is the most straightforward and commonly used phrase.<br>\n- <strong>Formality:</strong> \"How should I address you?\" is more formal and might be used in professional settings or when showing extra respect. \"Address\" here means \"to use a particular name or title when speaking or writing to someone.\"<br>\n- <strong>\"I wonder...\":</strong> Using \"I wonder...\" can soften a question, but for this specific query, it can make it sound a little overly contemplative. However, it's not strictly incorrect, just less common than the direct form.",
+    "reasonZh": "雖然 \"I wonder how I should call you?\" 在文法上可以理解，但對於這樣一個常見的問題來說，它有點不夠直接，聽起來可能比必要的更猶豫。<br>\n- <strong>直接性：</strong> \"What should I call you?\" 是最直接且最常用的說法。<br>\n- <strong>正式度：</strong> \"How should I address you?\" 更為正式，可能用於專業場合或表示額外尊重時。\"Address\" 在這裡的意思是「在對某人說話或寫信時使用特定的名字或頭銜」。<br>\n- <strong>\"I wonder...\"：</strong> 使用 \"I wonder...\" 可以使問題語氣更委婉，但對於這個特定的詢問，它可能聽起來有點過於沉思。然而，這並非完全錯誤，只是不如直接的形式常見。",
+    "furtherExamples": [
+        "Informal (meeting someone new at a party): \"Hi, I'm Alex. What should I call you?\"",
+        "Formal (meeting a new business contact): \"It's a pleasure to meet you, Mr. Harrison. How should I address you?\" or more simply, \"Should I call you Mr. Harrison or is [First Name] okay?\"",
+        "When unsure about a nickname: \"Your friends call you Liz. Would you prefer I call you Elizabeth or Liz?\""
+    ]
+}

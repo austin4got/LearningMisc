@@ -1,0 +1,11 @@
+{
+    "id": "translation5",
+    "type": "translation",
+    "title": "中譯英 5 (說話速度)",
+    "title_en": "CN-EN Translation 5 (Speaking Speed)",
+    "originalSentence": "我的意思是說,你講中文的時候可以加快,因為我是覺得你講中文有點慢,但是如果你講英文的話,不要加快,因為我聽得有點累。",
+    "improvedSentences": ["What I mean is, when you speak Chinese, you can speed up because I find you speak a bit slowly. But when you speak English, please don't speed up, as it's a bit tiring for me to follow."],
+    "reasonEn": "此為中文表述的英文翻譯參考。 / This is an English translation reference for the Chinese expression.",
+    "reasonZh": "",
+    "furtherExamples": [""]
+}
